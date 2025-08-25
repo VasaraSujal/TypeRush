@@ -1,0 +1,1 @@
+starting project which is based on typing.
