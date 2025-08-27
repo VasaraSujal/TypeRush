@@ -1,5 +1,3 @@
-Got it 👍
-Here’s a **professional README.md template** tailored for your **Multiplayer Typing Test Platform** project. You can directly use this in your GitHub repo and edit details as your project progresses.
 
 ---
 
